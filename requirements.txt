@@ -1,0 +1,2 @@
+echo selenium==4.24.0 > requirements.txt
+echo webdriver-manager==4.0.2 >> requirements.txt

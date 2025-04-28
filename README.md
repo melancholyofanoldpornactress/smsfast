@@ -7,7 +7,7 @@
 
 1. **Клонируйте репозиторий**:
    bash
-   git clone https://github.com/ваш-username/smsfast-autotests.git
+   git clone https://github.com/melancholyofanoldpornactress/smsfast.git
    cd smsfast-autotests
 
    python test_support.py
