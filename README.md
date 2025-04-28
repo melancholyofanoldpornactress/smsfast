@@ -6,8 +6,8 @@
 ## Установка
 
 1. **Клонируйте репозиторий**:
-   bash
-   git clone https://github.com/melancholyofanoldpornactress/smsfast.git
-   cd smsfast-autotests
 
+   git clone https://github.com/melancholyofanoldpornactress/smsfast.git
+   cd smsfast
+   run in powershell
    python test_support.py
